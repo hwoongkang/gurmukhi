@@ -1,0 +1,35 @@
+{
+glyphname = NULL;
+lastChange = "2020-02-26 16:12:49 +0000";
+layers = (
+{
+layerId = UUID0;
+width = 0;
+},
+{
+layerId = "397B4BA1-1DC1-423A-91EE-9CBCF179C3D0";
+width = 0;
+},
+{
+layerId = "AD832606-5186-48BF-AC4A-95D20F9D6762";
+width = 0;
+},
+{
+layerId = "F506C8C4-888D-41F0-91C9-49F2C7D2D9C4";
+width = 0;
+},
+{
+layerId = "C86CFEE0-D181-456A-AA08-2B118FAF25CE";
+width = 0;
+},
+{
+layerId = "CBEC276F-1F9B-404D-BC73-2CB92054D876";
+width = 0;
+},
+{
+layerId = "04B5D069-3E89-43E6-853C-EFCF876AEDC5";
+width = 0;
+}
+);
+unicode = 0;
+}

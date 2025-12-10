@@ -1,5 +1,6 @@
 {
 .appVersion = "3436";
+.storedFileType = com.glyphsapp.glyphspackage;
 .formatVersion = 3;
 axes = (
 {
@@ -9,29 +10,6 @@ tag = wght;
 {
 name = Width;
 tag = wdth;
-}
-);
-classes = (
-{
-code = "bhaguru caguru chaguru daguru ddaguru ddhaguru haguru laguru lanuktaguru naguru nnaguru nyaguru phaguru phanuktaguru raguru taguru ttaguru tthaguru vaguru";
-name = class1;
-},
-{
-code = "bhanuktaguru chanuktaguru danuktaguru ddhanuktaguru hanuktaguru jhanuktaguru lanuktaguru nanuktaguru nganuktaguru nnanuktaguru nyanuktaguru ranuktaguru tanuktaguru ttanuktaguru tthanuktaguru vanuktaguru";
-name = class2;
-},
-{
-code = "aibindiguru aimatrabindiguru aubindiguru aumatrabindiguru bindiguru eebindiguru eematrabindiguru iibindiguru iimatrabindiguru oobindiguru oomatrabindiguru tippiguru ubindiguru ubindinuktaguru uubindiguru uubindinuktaguru";
-name = class3;
-},
-{
-code = "hasubscripthalantguru hasubscriptuguru hasubscriptuuguru rasubscripthalantguru rasubscriptuguru rasubscriptuuguru udaathalantguru udaatuguru udaatuuguru umatralow1guru umatralowguru uumatralowguru vasubscripthalantguru vasubscriptuguru vasubscriptuuguru yakashhalantguru yakashuguru yakashuuguru";
-name = class6;
-},
-{
-automatic = 1;
-code = "NULL CR space adakbindiguru bindiguru visargaguru aguru aaguru iguru iiguru uguru uuguru eeguru aiguru ooguru auguru kaguru khaguru gaguru ghaguru ngaguru caguru chaguru jaguru jhaguru nyaguru ttaguru tthaguru ddaguru ddhaguru nnaguru taguru thaguru daguru dhaguru naguru paguru phaguru baguru bhaguru maguru yaguru raguru laguru lanuktaguru vaguru sanuktaguru saguru haguru nuktaguru aamatraguru imatraguru iimatraguru umatraguru uumatraguru eematraguru aimatraguru oomatraguru aumatraguru halantguru udaatguru khanuktaguru ganuktaguru januktaguru rraguru phanuktaguru zeroguru oneguru twoguru threeguru fourguru fiveguru sixguru sevenguru eightguru nineguru tippiguru addakguru iriguru uraguru ekonkarguru yakashguru uni0A76 uni262C unuktaguru uunuktaguru kanuktaguru ghanuktaguru nganuktaguru canuktaguru chanuktaguru jhanuktaguru nyanuktaguru ttanuktaguru tthanuktaguru ddhanuktaguru nnanuktaguru tanuktaguru thanuktaguru danuktaguru dhanuktaguru nanuktaguru panuktaguru banuktaguru bhanuktaguru manuktaguru yanuktaguru ranuktaguru vanuktaguru hanuktaguru rasubscriptguru hasubscriptguru vasubscriptguru yapostformguru rasubscripthalantguru hasubscripthalantguru vasubscripthalantguru udaathalantguru yakashhalantguru rasubscriptuguru hasubscriptuguru vasubscriptuguru udaatuguru yakashuguru rasubscriptuuguru hasubscriptuuguru vasubscriptuuguru udaatuuguru yakashuuguru karaguru rasubscript1guru hasubscript1guru vasubscript1guru phunuktaguru phuunuktaguru iibindiguru ubindiguru uubindiguru eebindiguru aibindiguru oobindiguru aubindiguru iimatrabindiguru eematrabindiguru aimatrabindiguru oomatrabindiguru aumatrabindiguru ubindinuktaguru uubindinuktaguru addakbaraltguru umatralowguru uumatralowguru oomatra1guru oomatrabindi1guru uuUIguru uumatraUIguru udaatUIguru yakashUIguru uunuktaUIguru hasubscriptUIguru vasubscriptUIguru rasubscripthalantUIguru hasubscripthalantUIguru vasubscripthalantUIguru udaathalantUIguru yakashhalantUIguru rasubscriptuUIguru hasubscriptuUIguru vasubscriptuUIguru udaatuUIguru yakashuUIguru rasubscriptuuUIguru hasubscriptuuUIguru vasubscriptuuUIguru udaatuuUIguru yakashuuUIguru hasubscript1UIguru vasubscript1UIguru phuunuktaUIguru uubindiUIguru uubindinuktaUIguru umatralowUIguru uumatralowUIguru iiaddakguru uaddakguru uuaddakguru eeaddakguru aiaddakguru ooaddakguru auaddakguru iimatraaddakguru eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru unuktaaddakguru uunuktaaddakguru uuUIaddakguru uunuktaUIaddakguru uraaddakguru kaUIguru gaUIguru taUIguru baUIguru raUIguru laUIguru sanuktaUIguru umatralow1guru exclam.guru quotedbl.guru numbersign.guru percent.guru quotesingle.guru parenleft.guru parenright.guru asterisk.guru plus.guru comma.guru hyphen.guru period.guru slash.guru zero.guru one.guru two.guru three.guru four.guru five.guru six.guru seven.guru eight.guru nine.guru colon.guru semicolon.guru less.guru equal.guru greater.guru question.guru bracketleft.guru backslash.guru bracketright.guru asciicircum.guru underscore.guru braceleft.guru bar.guru braceright.guru asciitilde.guru uni00A0.guru sfthyphen.guru endash.guru emdash.guru quoteleft.guru quoteright.guru quotedblleft.guru quotedblright.guru ellipsis.guru multiply.guru divide.guru minus.guru uni20B9.guru uni0951 uni0952 danda.guru dbldanda.guru uniA830 uniA831 uniA832 uniA833 uniA834 uniA835 uniA836 uniA837 uniA838 uniA839 uni2010 uni200B uni200C uni200D uni25CC uaddakaltguru eematraaddakaltguru oomatraaddakaltguru";
-name = All;
 }
 );
 customParameters = (
@@ -430,183 +408,9 @@ name = Languagesystems;
 {
 code = "include(features/gurmukhi.fea);";
 name = include;
-},
-{
-code = "lookup PutBackHalant {
-    sub rasubscriptguru by halantguru raguru;
-    sub hasubscriptguru by halantguru haguru;
-    sub vasubscriptguru by halantguru vaguru;
-} PutBackHalant;
-";
-name = "Put Back Halant";
-},
-{
-code = "lookup PutBackAddak {
-    sub eematraaddakguru by eematraguru addakguru;
-    sub aimatraaddakguru by aimatraguru addakguru;
-    sub oomatraaddakguru by oomatra1guru addakguru;
-    sub aumatraaddakguru by aumatraguru addakguru;
-} PutBackAddak;
-";
-name = "Put Back Addak";
-},
-{
-code = "lookup SeparateMatraAddak {
-    pos aumatraguru <$aumatra_rightfix 0 0 0>;
-    pos addakguru <$addak_rightfix 0 0 0>;
-    pos aumatrabindiguru <$aumatrabindi_rightfix 0 0 0>;
-} SeparateMatraAddak;
-";
-name = "Separate Matra and Addak";
-},
-{
-code = "lookup SinglePositioning14 {
-    lookupflag 0;
-    ;
-    # Original source: 10 
-    pos aumatraaddakguru <-1 0 0 0>;
-} SinglePositioning14;
-";
-name = SinglePositioning14;
 }
 );
 features = (
-{
-code = "sub uguru nuktaguru by unuktaguru;
-sub uuguru nuktaguru by uunuktaguru;
-sub kaguru nuktaguru by kanuktaguru;
-sub khaguru nuktaguru by khanuktaguru;
-sub gaguru nuktaguru by ganuktaguru;
-sub ghaguru nuktaguru by ghanuktaguru;
-sub ngaguru nuktaguru by nganuktaguru;
-sub caguru nuktaguru by canuktaguru;
-sub chaguru nuktaguru by chanuktaguru;
-sub jaguru nuktaguru by januktaguru;
-sub jhaguru nuktaguru by jhanuktaguru;
-sub nyaguru nuktaguru by nyanuktaguru;
-sub ttaguru nuktaguru by ttanuktaguru;
-sub tthaguru nuktaguru by tthanuktaguru;
-sub ddaguru nuktaguru by rraguru;
-sub ddhaguru nuktaguru by ddhanuktaguru;
-sub nnaguru nuktaguru by nnanuktaguru;
-sub taguru nuktaguru by tanuktaguru;
-sub thaguru nuktaguru by thanuktaguru;
-sub daguru nuktaguru by danuktaguru;
-sub dhaguru nuktaguru by dhanuktaguru;
-sub naguru nuktaguru by nanuktaguru;
-sub paguru nuktaguru by panuktaguru;
-sub phaguru nuktaguru by phanuktaguru;
-sub baguru nuktaguru by banuktaguru;
-sub bhaguru nuktaguru by bhanuktaguru;
-sub maguru nuktaguru by manuktaguru;
-sub yaguru nuktaguru by yanuktaguru;
-sub raguru nuktaguru by ranuktaguru;
-sub laguru nuktaguru by lanuktaguru;
-sub vaguru nuktaguru by vanuktaguru;
-sub saguru nuktaguru by sanuktaguru;
-sub haguru nuktaguru by hanuktaguru;
-";
-tag = nukt;
-},
-{
-code = "sub halantguru haguru by hasubscriptguru;
-sub halantguru raguru by rasubscriptguru;
-sub halantguru vaguru by vasubscriptguru;
-";
-tag = blwf;
-},
-{
-code = "sub halantguru yaguru by yapostformguru;";
-tag = pstf;
-},
-{
-code = "sub [rasubscriptguru hasubscriptguru vasubscriptguru]' lookup PutBackHalant [udaatguru yakashguru rasubscriptguru hasubscriptguru vasubscriptguru];
-
-lookup BelowLigatures {
-    sub udaatguru halantguru by udaathalantguru;
-    sub udaatguru umatraguru by udaatuguru;
-    sub udaatguru uumatraguru by udaatuuguru;
-    sub yakashguru halantguru by yakashhalantguru;
-    sub yakashguru umatraguru by yakashuguru;
-    sub yakashguru uumatraguru by yakashuuguru;
-    sub rasubscriptguru halantguru by rasubscripthalantguru;
-    sub rasubscriptguru umatraguru by rasubscriptuguru;
-    sub rasubscriptguru uumatraguru by rasubscriptuuguru;
-    sub hasubscriptguru halantguru by hasubscripthalantguru;
-    sub hasubscriptguru umatraguru by hasubscriptuguru;
-    sub hasubscriptguru uumatraguru by hasubscriptuuguru;
-    sub vasubscriptguru halantguru by vasubscripthalantguru;
-    sub vasubscriptguru umatraguru by vasubscriptuguru;
-    sub vasubscriptguru uumatraguru by vasubscriptuuguru;
-
-    sub kaguru rasubscriptguru by karaguru;
-    sub phanuktaguru umatraguru by phunuktaguru;
-    sub phanuktaguru uumatraguru by phuunuktaguru;
-} BelowLigatures;
-
-sub @class1 [rasubscriptguru hasubscriptguru vasubscriptguru]' by [rasubscript1guru hasubscript1guru vasubscript1guru];
-
-sub @class2 [umatraguru uumatraguru]' by [umatralowguru uumatralowguru];
-";
-tag = blws;
-},
-{
-code = "sub iiguru addakguru by iiaddakguru;
-sub iiguru bindiguru by iibindiguru;
-sub iiguru tippiguru by iibindiguru;
-sub uguru addakguru by uaddakguru;
-sub uguru bindiguru by ubindiguru;
-sub uguru tippiguru by ubindiguru;
-sub uuguru addakguru by uuaddakguru;
-sub uuguru bindiguru by uubindiguru;
-sub uuguru tippiguru by uubindiguru;
-sub eeguru addakguru by eeaddakguru;
-sub eeguru bindiguru by eebindiguru;
-sub eeguru tippiguru by eebindiguru;
-sub aiguru addakguru by aiaddakguru;
-sub aiguru bindiguru by aibindiguru;
-sub aiguru tippiguru by aibindiguru;
-sub ooguru addakguru by ooaddakguru;
-sub ooguru bindiguru by oobindiguru;
-sub ooguru tippiguru by oobindiguru;
-sub auguru addakguru by auaddakguru;
-sub auguru bindiguru by aubindiguru;
-sub auguru tippiguru by aubindiguru;
-sub iimatraguru addakguru by iimatraaddakguru;
-sub iimatraguru bindiguru by iimatrabindiguru;
-sub iimatraguru tippiguru by iimatrabindiguru;
-sub eematraguru addakguru by eematraaddakguru;
-sub eematraguru bindiguru by eematrabindiguru;
-sub eematraguru tippiguru by eematrabindiguru;
-sub aimatraguru addakguru by aimatraaddakguru;
-sub aimatraguru bindiguru by aimatrabindiguru;
-sub aimatraguru tippiguru by aimatrabindiguru;
-sub oomatraguru addakguru by oomatraaddakguru;
-sub oomatraguru bindiguru by oomatrabindiguru;
-sub oomatraguru tippiguru by oomatrabindiguru;
-sub aumatraguru addakguru by aumatraaddakguru;
-sub aumatraguru bindiguru by aumatrabindiguru;
-sub aumatraguru tippiguru by aumatrabindiguru;
-sub unuktaguru addakguru by unuktaaddakguru;
-sub unuktaguru bindiguru by ubindinuktaguru;
-sub unuktaguru tippiguru by ubindinuktaguru;
-sub uunuktaguru addakguru by uunuktaaddakguru;
-sub uunuktaguru bindiguru by uubindinuktaguru;
-sub uunuktaguru tippiguru by uubindinuktaguru;
-
-sub @class3 addakguru' by addakbaraltguru;
-
-sub [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [oomatraguru oomatrabindiguru]' by [oomatra1guru oomatrabindi1guru];
-sub [tthaguru naguru tthanuktaguru nanuktaguru] [oomatraguru oomatrabindiguru]' by [oomatra1guru oomatrabindi1guru];
-sub [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru]' lookup PutBackAddak;
-sub [tthaguru naguru tthanuktaguru nanuktaguru] [eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru]' lookup PutBackAddak;
-";
-tag = abvs;
-},
-{
-code = "";
-tag = haln;
-},
 {
 code = "sub uaddakguru'  imatraguru by uaddakaltguru;
 sub uaddakguru'  taguru eematraguru by uaddakaltguru;
@@ -646,9 +450,9 @@ pos [tthaguru naguru tthanuktaguru nanuktaguru] [aumatraguru aumatrabindiguru]' 
 
 # Position udatta/anudatta
 # These values probably should be master-specific, but weren't designed that way
-pos @All uni0951' <0 275 0 0>;
-pos @All uni0952' <0 -355 0 0>;
-pos @class6 uni0952' <0 -375 0 0>;
+pos @guru_All uni0951' <0 275 0 0>;
+pos @guru_All uni0952' <0 -355 0 0>;
+pos @guru_class6 uni0952' <0 -375 0 0>;
 
 pos baguru' aumatraaddakguru' <$ba_aumatraaddak_fix 0 0 0> daguru' oomatrabindiguru';
 pos baguru' aumatraaddakguru' <$ba_aumatraaddak_fix 0 0 0> dhaguru' oomatrabindiguru';

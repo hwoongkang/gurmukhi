@@ -1,0 +1,197 @@
+{
+glyphname = bhanuktaguru;
+lastChange = "2023-02-16 09:25:39 +0000";
+layers = (
+{
+anchors = (
+{
+name = Anchor2;
+pos = (478,622);
+},
+{
+name = Anchor6;
+pos = (359,0);
+},
+{
+name = halant;
+pos = (452,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (390,52);
+ref = nuktaguru;
+}
+);
+width = 577;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (536,622);
+},
+{
+name = Anchor6;
+pos = (378,0);
+},
+{
+name = halant;
+pos = (519,0);
+}
+);
+layerId = "397B4BA1-1DC1-423A-91EE-9CBCF179C3D0";
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (402,45);
+ref = nuktaguru;
+}
+);
+width = 631;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (454,622);
+},
+{
+name = Anchor6;
+pos = (351,0);
+},
+{
+name = halant;
+pos = (392,0);
+}
+);
+layerId = "AD832606-5186-48BF-AC4A-95D20F9D6762";
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (385,52);
+ref = nuktaguru;
+}
+);
+width = 531;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (581,622);
+},
+{
+name = Anchor6;
+pos = (362,0);
+},
+{
+name = halant;
+pos = (569,0);
+}
+);
+layerId = "F506C8C4-888D-41F0-91C9-49F2C7D2D9C4";
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (402,45);
+ref = nuktaguru;
+}
+);
+width = 652;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (315,622);
+},
+{
+name = Anchor6;
+pos = (249,0);
+},
+{
+name = halant;
+pos = (304,0);
+}
+);
+layerId = "C86CFEE0-D181-456A-AA08-2B118FAF25CE";
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (357,52);
+ref = nuktaguru;
+}
+);
+width = 404;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (475,622);
+},
+{
+name = Anchor6;
+pos = (278,0);
+},
+{
+name = halant;
+pos = (448,0);
+}
+);
+layerId = "CBEC276F-1F9B-404D-BC73-2CB92054D876";
+shapes = (
+{
+ref = bhaguru;
+},
+{
+pos = (388,45);
+ref = nuktaguru;
+}
+);
+width = 525;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (363,622);
+},
+{
+name = Anchor6;
+pos = (263,0);
+},
+{
+name = halant;
+pos = (339,0);
+}
+);
+layerId = "04B5D069-3E89-43E6-853C-EFCF876AEDC5";
+shapes = (
+{
+alignment = -1;
+ref = bhaguru;
+},
+{
+pos = (377,52);
+ref = nuktaguru;
+}
+);
+width = 437;
+}
+);
+metricWidth = "=bhaguru";
+}
