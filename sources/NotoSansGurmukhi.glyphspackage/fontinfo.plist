@@ -1,0 +1,5915 @@
+{
+.appVersion = "3436";
+.formatVersion = 3;
+axes = (
+{
+name = Weight;
+tag = wght;
+},
+{
+name = Width;
+tag = wdth;
+}
+);
+classes = (
+{
+code = "bhaguru caguru chaguru daguru ddaguru ddhaguru haguru laguru lanuktaguru naguru nnaguru nyaguru phaguru phanuktaguru raguru taguru ttaguru tthaguru vaguru";
+name = class1;
+},
+{
+code = "bhanuktaguru chanuktaguru danuktaguru ddhanuktaguru hanuktaguru jhanuktaguru lanuktaguru nanuktaguru nganuktaguru nnanuktaguru nyanuktaguru ranuktaguru tanuktaguru ttanuktaguru tthanuktaguru vanuktaguru";
+name = class2;
+},
+{
+code = "aibindiguru aimatrabindiguru aubindiguru aumatrabindiguru bindiguru eebindiguru eematrabindiguru iibindiguru iimatrabindiguru oobindiguru oomatrabindiguru tippiguru ubindiguru ubindinuktaguru uubindiguru uubindinuktaguru";
+name = class3;
+},
+{
+code = "hasubscripthalantguru hasubscriptuguru hasubscriptuuguru rasubscripthalantguru rasubscriptuguru rasubscriptuuguru udaathalantguru udaatuguru udaatuuguru umatralow1guru umatralowguru uumatralowguru vasubscripthalantguru vasubscriptuguru vasubscriptuuguru yakashhalantguru yakashuguru yakashuuguru";
+name = class6;
+},
+{
+automatic = 1;
+code = "NULL CR space adakbindiguru bindiguru visargaguru aguru aaguru iguru iiguru uguru uuguru eeguru aiguru ooguru auguru kaguru khaguru gaguru ghaguru ngaguru caguru chaguru jaguru jhaguru nyaguru ttaguru tthaguru ddaguru ddhaguru nnaguru taguru thaguru daguru dhaguru naguru paguru phaguru baguru bhaguru maguru yaguru raguru laguru lanuktaguru vaguru sanuktaguru saguru haguru nuktaguru aamatraguru imatraguru iimatraguru umatraguru uumatraguru eematraguru aimatraguru oomatraguru aumatraguru halantguru udaatguru khanuktaguru ganuktaguru januktaguru rraguru phanuktaguru zeroguru oneguru twoguru threeguru fourguru fiveguru sixguru sevenguru eightguru nineguru tippiguru addakguru iriguru uraguru ekonkarguru yakashguru uni0A76 uni262C unuktaguru uunuktaguru kanuktaguru ghanuktaguru nganuktaguru canuktaguru chanuktaguru jhanuktaguru nyanuktaguru ttanuktaguru tthanuktaguru ddhanuktaguru nnanuktaguru tanuktaguru thanuktaguru danuktaguru dhanuktaguru nanuktaguru panuktaguru banuktaguru bhanuktaguru manuktaguru yanuktaguru ranuktaguru vanuktaguru hanuktaguru rasubscriptguru hasubscriptguru vasubscriptguru yapostformguru rasubscripthalantguru hasubscripthalantguru vasubscripthalantguru udaathalantguru yakashhalantguru rasubscriptuguru hasubscriptuguru vasubscriptuguru udaatuguru yakashuguru rasubscriptuuguru hasubscriptuuguru vasubscriptuuguru udaatuuguru yakashuuguru karaguru rasubscript1guru hasubscript1guru vasubscript1guru phunuktaguru phuunuktaguru iibindiguru ubindiguru uubindiguru eebindiguru aibindiguru oobindiguru aubindiguru iimatrabindiguru eematrabindiguru aimatrabindiguru oomatrabindiguru aumatrabindiguru ubindinuktaguru uubindinuktaguru addakbaraltguru umatralowguru uumatralowguru oomatra1guru oomatrabindi1guru uuUIguru uumatraUIguru udaatUIguru yakashUIguru uunuktaUIguru hasubscriptUIguru vasubscriptUIguru rasubscripthalantUIguru hasubscripthalantUIguru vasubscripthalantUIguru udaathalantUIguru yakashhalantUIguru rasubscriptuUIguru hasubscriptuUIguru vasubscriptuUIguru udaatuUIguru yakashuUIguru rasubscriptuuUIguru hasubscriptuuUIguru vasubscriptuuUIguru udaatuuUIguru yakashuuUIguru hasubscript1UIguru vasubscript1UIguru phuunuktaUIguru uubindiUIguru uubindinuktaUIguru umatralowUIguru uumatralowUIguru iiaddakguru uaddakguru uuaddakguru eeaddakguru aiaddakguru ooaddakguru auaddakguru iimatraaddakguru eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru unuktaaddakguru uunuktaaddakguru uuUIaddakguru uunuktaUIaddakguru uraaddakguru kaUIguru gaUIguru taUIguru baUIguru raUIguru laUIguru sanuktaUIguru umatralow1guru exclam.guru quotedbl.guru numbersign.guru percent.guru quotesingle.guru parenleft.guru parenright.guru asterisk.guru plus.guru comma.guru hyphen.guru period.guru slash.guru zero.guru one.guru two.guru three.guru four.guru five.guru six.guru seven.guru eight.guru nine.guru colon.guru semicolon.guru less.guru equal.guru greater.guru question.guru bracketleft.guru backslash.guru bracketright.guru asciicircum.guru underscore.guru braceleft.guru bar.guru braceright.guru asciitilde.guru uni00A0.guru sfthyphen.guru endash.guru emdash.guru quoteleft.guru quoteright.guru quotedblleft.guru quotedblright.guru ellipsis.guru multiply.guru divide.guru minus.guru uni20B9.guru uni0951 uni0952 danda.guru dbldanda.guru uniA830 uniA831 uniA832 uniA833 uniA834 uniA835 uniA836 uniA837 uniA838 uniA839 uni2010 uni200B uni200C uni200D uni25CC uaddakaltguru eematraaddakaltguru oomatraaddakaltguru";
+name = All;
+}
+);
+customParameters = (
+{
+name = glyphOrder;
+value = (
+.notdef,
+NULL,
+CR,
+space,
+adakbindiguru,
+bindiguru,
+visargaguru,
+aguru,
+aaguru,
+iguru,
+iiguru,
+uguru,
+uuguru,
+eeguru,
+aiguru,
+ooguru,
+auguru,
+kaguru,
+khaguru,
+gaguru,
+ghaguru,
+ngaguru,
+caguru,
+chaguru,
+jaguru,
+jhaguru,
+nyaguru,
+ttaguru,
+tthaguru,
+ddaguru,
+ddhaguru,
+nnaguru,
+taguru,
+thaguru,
+daguru,
+dhaguru,
+naguru,
+paguru,
+phaguru,
+baguru,
+bhaguru,
+maguru,
+yaguru,
+raguru,
+laguru,
+lanuktaguru,
+vaguru,
+sanuktaguru,
+saguru,
+haguru,
+nuktaguru,
+aamatraguru,
+imatraguru,
+iimatraguru,
+umatraguru,
+uumatraguru,
+eematraguru,
+aimatraguru,
+oomatraguru,
+aumatraguru,
+halantguru,
+udaatguru,
+khanuktaguru,
+ganuktaguru,
+januktaguru,
+rraguru,
+phanuktaguru,
+zeroguru,
+oneguru,
+twoguru,
+threeguru,
+fourguru,
+fiveguru,
+sixguru,
+sevenguru,
+eightguru,
+nineguru,
+tippiguru,
+addakguru,
+iriguru,
+uraguru,
+ekonkarguru,
+yakashguru,
+uni0A76,
+uni262C,
+unuktaguru,
+uunuktaguru,
+kanuktaguru,
+ghanuktaguru,
+nganuktaguru,
+canuktaguru,
+chanuktaguru,
+jhanuktaguru,
+nyanuktaguru,
+ttanuktaguru,
+tthanuktaguru,
+ddhanuktaguru,
+nnanuktaguru,
+tanuktaguru,
+thanuktaguru,
+danuktaguru,
+dhanuktaguru,
+nanuktaguru,
+panuktaguru,
+banuktaguru,
+bhanuktaguru,
+manuktaguru,
+yanuktaguru,
+ranuktaguru,
+vanuktaguru,
+hanuktaguru,
+rasubscriptguru,
+hasubscriptguru,
+vasubscriptguru,
+kaprehalfguru,
+khaprehalfguru,
+gaprehalfguru,
+ghaprehalfguru,
+ngaprehalfguru,
+caprehalfguru,
+chaprehalfguru,
+japrehalfguru,
+jhaprehalfguru,
+nyaprehalfguru,
+ttaprehalfguru,
+tthaprehalfguru,
+ddaprehalfguru,
+ddhaprehalfguru,
+nnaprehalfguru,
+taprehalfguru,
+thaprehalfguru,
+daprehalfguru,
+dhaprehalfguru,
+naprehalfguru,
+paprehalfguru,
+phaprehalfguru,
+baprehalfguru,
+bhaprehalfguru,
+maprehalfguru,
+yaprehalfguru,
+raprehalfguru,
+laprehalfguru,
+vaprehalfguru,
+saprehalfguru,
+haprehalfguru,
+kanuktaprehalfguru,
+khanuktaprehalfguru,
+ganuktaprehalfguru,
+ghanuktaprehalfguru,
+nganuktaprehalfguru,
+canuktaprehalfguru,
+chanuktaprehalfguru,
+januktaprehalfguru,
+jhanuktaprehalfguru,
+nyanuktaprehalfguru,
+ttanuktaprehalfguru,
+tthanuktaprehalfguru,
+ddanuktaprehalfguru,
+ddhanuktaprehalfguru,
+nnanuktaprehalfguru,
+tanuktaprehalfguru,
+thanuktaprehalfguru,
+danuktaprehalfguru,
+dhanuktaprehalfguru,
+nanuktaprehalfguru,
+panuktaprehalfguru,
+phanuktaprehalfguru,
+banuktaprehalfguru,
+bhanuktaprehalfguru,
+manuktaprehalfguru,
+yanuktaprehalfguru,
+ranuktaprehalfguru,
+lanuktaprehalfguru,
+vanuktaprehalfguru,
+sanuktaprehalfguru,
+hanuktaprehalfguru,
+yapostformguru,
+rasubscripthalantguru,
+hasubscripthalantguru,
+vasubscripthalantguru,
+udaathalantguru,
+yakashhalantguru,
+rasubscriptuguru,
+hasubscriptuguru,
+vasubscriptuguru,
+udaatuguru,
+yakashuguru,
+rasubscriptuuguru,
+hasubscriptuuguru,
+vasubscriptuuguru,
+udaatuuguru,
+yakashuuguru,
+karaguru,
+rasubscript1guru,
+hasubscript1guru,
+vasubscript1guru,
+phunuktaguru,
+phuunuktaguru,
+iibindiguru,
+ubindiguru,
+uubindiguru,
+eebindiguru,
+aibindiguru,
+oobindiguru,
+aubindiguru,
+iimatrabindiguru,
+eematrabindiguru,
+aimatrabindiguru,
+oomatrabindiguru,
+aumatrabindiguru,
+ubindinuktaguru,
+uubindinuktaguru,
+addakbaraltguru,
+umatralowguru,
+uumatralowguru,
+oomatra1guru,
+oomatrabindi1guru,
+uuUIguru,
+uumatraUIguru,
+udaatUIguru,
+yakashUIguru,
+uunuktaUIguru,
+hasubscriptUIguru,
+vasubscriptUIguru,
+rasubscripthalantUIguru,
+hasubscripthalantUIguru,
+vasubscripthalantUIguru,
+udaathalantUIguru,
+yakashhalantUIguru,
+rasubscriptuUIguru,
+hasubscriptuUIguru,
+vasubscriptuUIguru,
+udaatuUIguru,
+yakashuUIguru,
+rasubscriptuuUIguru,
+hasubscriptuuUIguru,
+vasubscriptuuUIguru,
+udaatuuUIguru,
+yakashuuUIguru,
+hasubscript1UIguru,
+vasubscript1UIguru,
+phuunuktaUIguru,
+uubindiUIguru,
+uubindinuktaUIguru,
+umatralowUIguru,
+uumatralowUIguru,
+iiaddakguru,
+uaddakguru,
+uuaddakguru,
+eeaddakguru,
+aiaddakguru,
+ooaddakguru,
+auaddakguru,
+iimatraaddakguru,
+eematraaddakguru,
+aimatraaddakguru,
+oomatraaddakguru,
+aumatraaddakguru,
+unuktaaddakguru,
+uunuktaaddakguru,
+uuUIaddakguru,
+uunuktaUIaddakguru,
+uraaddakguru,
+kaUIguru,
+gaUIguru,
+taUIguru,
+baUIguru,
+raUIguru,
+laUIguru,
+sanuktaUIguru,
+umatralow1guru,
+exclam.guru,
+quotedbl.guru,
+numbersign.guru,
+percent.guru,
+quotesingle.guru,
+parenleft.guru,
+parenright.guru,
+asterisk.guru,
+plus.guru,
+comma.guru,
+hyphen.guru,
+period.guru,
+slash.guru,
+zero.guru,
+one.guru,
+two.guru,
+three.guru,
+four.guru,
+five.guru,
+six.guru,
+seven.guru,
+eight.guru,
+nine.guru,
+colon.guru,
+semicolon.guru,
+less.guru,
+equal.guru,
+greater.guru,
+question.guru,
+bracketleft.guru,
+backslash.guru,
+bracketright.guru,
+asciicircum.guru,
+underscore.guru,
+braceleft.guru,
+bar.guru,
+braceright.guru,
+asciitilde.guru,
+uni00A0.guru,
+sfthyphen.guru,
+endash.guru,
+emdash.guru,
+quoteleft.guru,
+quoteright.guru,
+quotedblleft.guru,
+quotedblright.guru,
+ellipsis.guru,
+multiply.guru,
+divide.guru,
+minus.guru,
+uni20B9.guru,
+uni0951,
+uni0952,
+danda.guru,
+dbldanda.guru,
+uniA830,
+uniA831,
+uniA832,
+uniA833,
+uniA834,
+uniA835,
+uniA836,
+uniA837,
+uniA838,
+uniA839,
+uni2010,
+uni200B,
+uni200C,
+uni200D,
+uni25CC,
+uaddakaltguru,
+eematraaddakaltguru,
+oomatraaddakaltguru
+);
+},
+{
+name = fsType;
+value = (
+);
+},
+{
+name = unicodeRanges;
+value = (
+0,
+1,
+15,
+17,
+31,
+33,
+38,
+45,
+46
+);
+},
+{
+name = DisableAllAutomaticBehaviour;
+value = 1;
+},
+{
+name = "Has WWS Names";
+value = 1;
+},
+{
+name = "Propagate Anchors";
+value = 0;
+},
+{
+name = "Use Typo Metrics";
+value = 1;
+}
+);
+date = "2019-02-21 07:18:04 +0000";
+familyName = "Noto Sans Gurmukhi";
+featurePrefixes = (
+{
+code = "lookup PutBackHalant {
+    sub rasubscriptguru by halantguru raguru;
+    sub hasubscriptguru by halantguru haguru;
+    sub vasubscriptguru by halantguru vaguru;
+} PutBackHalant;
+";
+name = "Put Back Halant";
+},
+{
+code = "lookup PutBackAddak {
+    sub eematraaddakguru by eematraguru addakguru;
+    sub aimatraaddakguru by aimatraguru addakguru;
+    sub oomatraaddakguru by oomatra1guru addakguru;
+    sub aumatraaddakguru by aumatraguru addakguru;
+} PutBackAddak;
+";
+name = "Put Back Addak";
+},
+{
+code = "lookup SeparateMatraAddak {
+    pos aumatraguru <$aumatra_rightfix 0 0 0>;
+    pos addakguru <$addak_rightfix 0 0 0>;
+    pos aumatrabindiguru <$aumatrabindi_rightfix 0 0 0>;
+} SeparateMatraAddak;
+";
+name = "Separate Matra and Addak";
+},
+{
+code = "lookup SinglePositioning14 {
+    lookupflag 0;
+    ;
+    # Original source: 10 
+    pos aumatraaddakguru <-1 0 0 0>;
+} SinglePositioning14;
+";
+name = SinglePositioning14;
+},
+{
+code = "languagesystem gur2 dflt;";
+name = Languagesystems;
+}
+);
+features = (
+{
+code = "sub uguru nuktaguru by unuktaguru;
+sub uuguru nuktaguru by uunuktaguru;
+sub kaguru nuktaguru by kanuktaguru;
+sub khaguru nuktaguru by khanuktaguru;
+sub gaguru nuktaguru by ganuktaguru;
+sub ghaguru nuktaguru by ghanuktaguru;
+sub ngaguru nuktaguru by nganuktaguru;
+sub caguru nuktaguru by canuktaguru;
+sub chaguru nuktaguru by chanuktaguru;
+sub jaguru nuktaguru by januktaguru;
+sub jhaguru nuktaguru by jhanuktaguru;
+sub nyaguru nuktaguru by nyanuktaguru;
+sub ttaguru nuktaguru by ttanuktaguru;
+sub tthaguru nuktaguru by tthanuktaguru;
+sub ddaguru nuktaguru by rraguru;
+sub ddhaguru nuktaguru by ddhanuktaguru;
+sub nnaguru nuktaguru by nnanuktaguru;
+sub taguru nuktaguru by tanuktaguru;
+sub thaguru nuktaguru by thanuktaguru;
+sub daguru nuktaguru by danuktaguru;
+sub dhaguru nuktaguru by dhanuktaguru;
+sub naguru nuktaguru by nanuktaguru;
+sub paguru nuktaguru by panuktaguru;
+sub phaguru nuktaguru by phanuktaguru;
+sub baguru nuktaguru by banuktaguru;
+sub bhaguru nuktaguru by bhanuktaguru;
+sub maguru nuktaguru by manuktaguru;
+sub yaguru nuktaguru by yanuktaguru;
+sub raguru nuktaguru by ranuktaguru;
+sub laguru nuktaguru by lanuktaguru;
+sub vaguru nuktaguru by vanuktaguru;
+sub saguru nuktaguru by sanuktaguru;
+sub haguru nuktaguru by hanuktaguru;
+";
+tag = nukt;
+},
+{
+code = "sub halantguru haguru by hasubscriptguru;
+sub halantguru raguru by rasubscriptguru;
+sub halantguru vaguru by vasubscriptguru;
+";
+tag = blwf;
+},
+{
+code = "sub halantguru yaguru by yapostformguru;";
+tag = pstf;
+},
+{
+code = "sub [rasubscriptguru hasubscriptguru vasubscriptguru]' lookup PutBackHalant [udaatguru yakashguru rasubscriptguru hasubscriptguru vasubscriptguru];
+
+lookup BelowLigatures {
+    sub udaatguru halantguru by udaathalantguru;
+    sub udaatguru umatraguru by udaatuguru;
+    sub udaatguru uumatraguru by udaatuuguru;
+    sub yakashguru halantguru by yakashhalantguru;
+    sub yakashguru umatraguru by yakashuguru;
+    sub yakashguru uumatraguru by yakashuuguru;
+    sub rasubscriptguru halantguru by rasubscripthalantguru;
+    sub rasubscriptguru umatraguru by rasubscriptuguru;
+    sub rasubscriptguru uumatraguru by rasubscriptuuguru;
+    sub hasubscriptguru halantguru by hasubscripthalantguru;
+    sub hasubscriptguru umatraguru by hasubscriptuguru;
+    sub hasubscriptguru uumatraguru by hasubscriptuuguru;
+    sub vasubscriptguru halantguru by vasubscripthalantguru;
+    sub vasubscriptguru umatraguru by vasubscriptuguru;
+    sub vasubscriptguru uumatraguru by vasubscriptuuguru;
+
+    sub kaguru rasubscriptguru by karaguru;
+    sub phanuktaguru umatraguru by phunuktaguru;
+    sub phanuktaguru uumatraguru by phuunuktaguru;
+} BelowLigatures;
+
+sub @class1 [rasubscriptguru hasubscriptguru vasubscriptguru]' by [rasubscript1guru hasubscript1guru vasubscript1guru];
+
+sub @class2 [umatraguru uumatraguru]' by [umatralowguru uumatralowguru];
+";
+tag = blws;
+},
+{
+code = "sub iiguru addakguru by iiaddakguru;
+sub iiguru bindiguru by iibindiguru;
+sub iiguru tippiguru by iibindiguru;
+sub uguru addakguru by uaddakguru;
+sub uguru bindiguru by ubindiguru;
+sub uguru tippiguru by ubindiguru;
+sub uuguru addakguru by uuaddakguru;
+sub uuguru bindiguru by uubindiguru;
+sub uuguru tippiguru by uubindiguru;
+sub eeguru addakguru by eeaddakguru;
+sub eeguru bindiguru by eebindiguru;
+sub eeguru tippiguru by eebindiguru;
+sub aiguru addakguru by aiaddakguru;
+sub aiguru bindiguru by aibindiguru;
+sub aiguru tippiguru by aibindiguru;
+sub ooguru addakguru by ooaddakguru;
+sub ooguru bindiguru by oobindiguru;
+sub ooguru tippiguru by oobindiguru;
+sub auguru addakguru by auaddakguru;
+sub auguru bindiguru by aubindiguru;
+sub auguru tippiguru by aubindiguru;
+sub iimatraguru addakguru by iimatraaddakguru;
+sub iimatraguru bindiguru by iimatrabindiguru;
+sub iimatraguru tippiguru by iimatrabindiguru;
+sub eematraguru addakguru by eematraaddakguru;
+sub eematraguru bindiguru by eematrabindiguru;
+sub eematraguru tippiguru by eematrabindiguru;
+sub aimatraguru addakguru by aimatraaddakguru;
+sub aimatraguru bindiguru by aimatrabindiguru;
+sub aimatraguru tippiguru by aimatrabindiguru;
+sub oomatraguru addakguru by oomatraaddakguru;
+sub oomatraguru bindiguru by oomatrabindiguru;
+sub oomatraguru tippiguru by oomatrabindiguru;
+sub aumatraguru addakguru by aumatraaddakguru;
+sub aumatraguru bindiguru by aumatrabindiguru;
+sub aumatraguru tippiguru by aumatrabindiguru;
+sub unuktaguru addakguru by unuktaaddakguru;
+sub unuktaguru bindiguru by ubindinuktaguru;
+sub unuktaguru tippiguru by ubindinuktaguru;
+sub uunuktaguru addakguru by uunuktaaddakguru;
+sub uunuktaguru bindiguru by uubindinuktaguru;
+sub uunuktaguru tippiguru by uubindinuktaguru;
+
+sub @class3 addakguru' by addakbaraltguru;
+
+sub [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [oomatraguru oomatrabindiguru]' by [oomatra1guru oomatrabindi1guru];
+sub [tthaguru naguru tthanuktaguru nanuktaguru] [oomatraguru oomatrabindiguru]' by [oomatra1guru oomatrabindi1guru];
+sub [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru]' lookup PutBackAddak;
+sub [tthaguru naguru tthanuktaguru nanuktaguru] [eematraaddakguru aimatraaddakguru oomatraaddakguru aumatraaddakguru]' lookup PutBackAddak;
+";
+tag = abvs;
+},
+{
+code = "";
+tag = haln;
+},
+{
+code = "sub uaddakguru'  imatraguru by uaddakaltguru;
+sub uaddakguru'  taguru eematraguru by uaddakaltguru;
+sub uaddakguru'  tthaguru eematraguru by uaddakaltguru;
+sub uaddakguru'  taguru eematrabindiguru by uaddakaltguru;
+sub uaddakguru'  taguru oomatrabindiguru by uaddakaltguru;
+sub uaddakguru'  thaguru oomatrabindiguru by uaddakaltguru;
+sub uaddakguru'  dhaguru oomatrabindiguru by uaddakaltguru;
+sub eematraaddakguru' taguru oomatraguru by eematraaddakaltguru;
+sub eematraaddakguru' imatraguru by eematraaddakaltguru;
+sub oomatraaddakguru' taguru oomatraguru by oomatraaddakaltguru;
+sub oomatraaddakguru' imatraguru by oomatraaddakaltguru;";
+tag = calt;
+},
+{
+code = "";
+tag = half;
+},
+{
+code = "# Automatic Code Start
+";
+tag = abvm;
+},
+{
+code = "# Automatic Code Start
+";
+tag = blwm;
+},
+{
+code = "# Automatic Code Start
+
+# Space out top marks
+pos [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [aumatraguru aumatrabindiguru]' lookup SeparateMatraAddak addakguru' lookup SeparateMatraAddak;
+pos [tthaguru naguru tthanuktaguru nanuktaguru] [aumatraguru aumatrabindiguru]' lookup SeparateMatraAddak addakguru' lookup SeparateMatraAddak;
+pos [tthaguru naguru tthanuktaguru nanuktaguru] [udaatguru yakashguru rasubscript1guru hasubscript1guru vasubscript1guru] [aumatraguru aumatrabindiguru]' lookup SeparateMatraAddak;
+pos [tthaguru naguru tthanuktaguru nanuktaguru] [aumatraguru aumatrabindiguru]' lookup SeparateMatraAddak;
+
+# Position udatta/anudatta
+# These values probably should be master-specific, but weren't designed that way
+pos @All uni0951' <0 275 0 0>;
+pos @All uni0952' <0 -355 0 0>;
+pos @class6 uni0952' <0 -375 0 0>;
+
+pos baguru' aumatraaddakguru' <$ba_aumatraaddak_fix 0 0 0> daguru' oomatrabindiguru';
+pos baguru' aumatraaddakguru' <$ba_aumatraaddak_fix 0 0 0> dhaguru' oomatrabindiguru';
+pos aumatraaddakguru' <$aumatraaddak_tta_fix 0 0 0> ttaguru' eematraguru';
+
+# Separate bindi when positioned on left (See #23)
+pos bindiguru' <$bindi_iimatra_fix 0 0 0> iimatraguru;
+";
+tag = dist;
+}
+);
+fontMaster = (
+{
+axesValues = (
+26,
+100
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 713;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-329,-271);
+},
+{
+pos = (156,890);
+},
+{
+pos = (55,-408);
+},
+{
+pos = (459,60);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = Light;
+id = "AD832606-5186-48BF-AC4A-95D20F9D6762";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = Light;
+numberValues = (
+18,
+70,
+41,
+-60,
+-1,
+-100
+);
+stemValues = (
+26,
+26
+);
+},
+{
+axesValues = (
+90,
+100
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 713;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-329,-271);
+},
+{
+pos = (48,896);
+},
+{
+pos = (55,-408);
+},
+{
+pos = (455,81);
+},
+{
+pos = (-13,0);
+}
+);
+id = UUID0;
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = Regular;
+numberValues = (
+20,
+93,
+54,
+-70,
+-1,
+-150
+);
+stemValues = (
+71,
+81
+);
+},
+{
+axesValues = (
+151,
+100
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 712;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-354,-271);
+},
+{
+pos = (55,-408);
+},
+{
+pos = (-262,85);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = SemiBold;
+id = "397B4BA1-1DC1-423A-91EE-9CBCF179C3D0";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = SemiBold;
+numberValues = (
+39,
+93,
+88,
+-70,
+-1,
+-200
+);
+stemValues = (
+110,
+134
+);
+},
+{
+axesValues = (
+190,
+100
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 712;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-344,-271);
+},
+{
+pos = (0,-408);
+},
+{
+pos = (2,896);
+},
+{
+pos = (509,85);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = Bold;
+id = "F506C8C4-888D-41F0-91C9-49F2C7D2D9C4";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = Bold;
+numberValues = (
+26,
+100,
+93,
+-85,
+-35,
+-250
+);
+stemValues = (
+138,
+177
+);
+},
+{
+axesValues = (
+26,
+70
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 713;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-329,-271);
+},
+{
+pos = (-209,890);
+},
+{
+pos = (55,-408);
+},
+{
+angle = 180;
+pos = (493,60);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = Light_Condensed;
+id = "C86CFEE0-D181-456A-AA08-2B118FAF25CE";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = "Light Condensed";
+numberValues = (
+14,
+64,
+45,
+-22,
+-1,
+-75
+);
+stemValues = (
+26,
+26
+);
+},
+{
+axesValues = (
+90,
+70
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 713;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-329,-271);
+},
+{
+pos = (-163,896);
+},
+{
+pos = (55,-408);
+},
+{
+pos = (327,81);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = Condensed;
+id = "04B5D069-3E89-43E6-853C-EFCF876AEDC5";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = Condensed;
+numberValues = (
+28,
+93,
+63,
+-45,
+-1,
+-125
+);
+stemValues = (
+68,
+75
+);
+},
+{
+axesValues = (
+190,
+70
+);
+customParameters = (
+{
+name = "Alignment Zones";
+value = (
+{
+pos = 712;
+size = 12;
+}
+);
+}
+);
+guides = (
+{
+pos = (-344,-271);
+},
+{
+pos = (0,-408);
+},
+{
+pos = (220,85);
+},
+{
+pos = (-13,0);
+}
+);
+iconName = Bold_Condensed;
+id = "CBEC276F-1F9B-404D-BC73-2CB92054D876";
+metricValues = (
+{
+pos = 896;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = 10;
+pos = 622;
+},
+{
+over = -10;
+},
+{
+pos = -408;
+},
+{
+}
+);
+name = "Bold Condensed";
+numberValues = (
+28,
+93,
+58,
+-95,
+-40,
+-175
+);
+stemValues = (
+133,
+150
+);
+}
+);
+instances = (
+{
+axesValues = (
+26,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 1;
+};
+name = Thin;
+weightClass = 100;
+},
+{
+axesValues = (
+39,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.79688;
+UUID0 = 0.20313;
+};
+name = ExtraLight;
+weightClass = 200;
+},
+{
+axesValues = (
+58,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.5;
+UUID0 = 0.5;
+};
+name = Light;
+weightClass = 300;
+},
+{
+axesValues = (
+90,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+UUID0 = 1;
+};
+name = Regular;
+},
+{
+axesValues = (
+108,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.29508;
+UUID0 = 0.70492;
+};
+name = Medium;
+weightClass = 500;
+},
+{
+axesValues = (
+128,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.62295;
+UUID0 = 0.37705;
+};
+name = SemiBold;
+weightClass = 600;
+},
+{
+axesValues = (
+151,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+weightClass = 700;
+},
+{
+axesValues = (
+169,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.53846;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.46154;
+};
+name = ExtraBold;
+weightClass = 800;
+},
+{
+axesValues = (
+190,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 1;
+};
+name = Black;
+weightClass = 900;
+},
+{
+axesValues = (
+26,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.63333;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.36667;
+};
+name = "SemiCondensed Thin";
+weightClass = 100;
+widthClass = 4;
+},
+{
+axesValues = (
+39,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.07448;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.50469;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.29219;
+UUID0 = 0.12865;
+};
+name = "SemiCondensed ExtraLight";
+weightClass = 200;
+widthClass = 4;
+},
+{
+axesValues = (
+58,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.18333;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.31667;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.18333;
+UUID0 = 0.31667;
+};
+name = "SemiCondensed Light";
+weightClass = 300;
+widthClass = 4;
+},
+{
+axesValues = (
+90,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.36667;
+UUID0 = 0.63333;
+};
+name = SemiCondensed;
+widthClass = 4;
+},
+{
+axesValues = (
+108,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.27745;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.14883;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.08922;
+UUID0 = 0.48451;
+};
+name = "SemiCondensed Medium";
+weightClass = 500;
+widthClass = 4;
+},
+{
+axesValues = (
+128,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.19922;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.34845;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.16745;
+UUID0 = 0.28488;
+};
+name = "SemiCondensed SemiBold";
+weightClass = 600;
+widthClass = 4;
+},
+{
+axesValues = (
+151,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.143;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.63333;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.22367;
+};
+isBold = 1;
+linkStyle = SemiCondensed;
+name = "SemiCondensed Bold";
+weightClass = 700;
+widthClass = 4;
+},
+{
+axesValues = (
+169,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.11183;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.25173;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.25484;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.3816;
+};
+name = "SemiCondensed ExtraBold";
+weightClass = 800;
+widthClass = 4;
+},
+{
+axesValues = (
+190,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.36667;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.63333;
+};
+name = "SemiCondensed Black";
+weightClass = 900;
+widthClass = 4;
+},
+{
+axesValues = (
+26,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.3;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.7;
+};
+name = "Condensed Thin";
+weightClass = 100;
+widthClass = 3;
+},
+{
+axesValues = (
+39,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.14219;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.23906;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.55781;
+UUID0 = 0.06094;
+};
+name = "Condensed ExtraLight";
+weightClass = 200;
+widthClass = 3;
+},
+{
+axesValues = (
+58,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.35;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.15;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.35;
+UUID0 = 0.15;
+};
+name = "Condensed Light";
+weightClass = 300;
+widthClass = 3;
+},
+{
+axesValues = (
+90,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.7;
+UUID0 = 0.3;
+};
+name = Condensed;
+widthClass = 3;
+},
+{
+axesValues = (
+108,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.59243;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.11875;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.10757;
+UUID0 = 0.18125;
+};
+name = "Condensed Medium";
+weightClass = 500;
+widthClass = 3;
+},
+{
+axesValues = (
+128,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.41376;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.1537;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.28624;
+UUID0 = 0.1463;
+};
+name = "Condensed SemiBold";
+weightClass = 600;
+widthClass = 3;
+},
+{
+axesValues = (
+151,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.273;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.3;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.427;
+};
+isBold = 1;
+linkStyle = Condensed;
+name = "Condensed Bold";
+weightClass = 700;
+widthClass = 3;
+},
+{
+axesValues = (
+169,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.14865;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.15731;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.55135;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.14269;
+};
+name = "Condensed ExtraBold";
+weightClass = 800;
+widthClass = 3;
+},
+{
+axesValues = (
+190,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.7;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.3;
+};
+name = "Condensed Black";
+weightClass = 900;
+widthClass = 3;
+},
+{
+axesValues = (
+26,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 1;
+};
+name = "ExtraCondensed Thin";
+weightClass = 100;
+widthClass = 2;
+},
+{
+axesValues = (
+39,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.20313;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.79688;
+};
+name = "ExtraCondensed ExtraLight";
+weightClass = 200;
+widthClass = 2;
+},
+{
+axesValues = (
+58,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.5;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.5;
+};
+name = "ExtraCondensed Light";
+weightClass = 300;
+widthClass = 2;
+},
+{
+axesValues = (
+90,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 1;
+};
+name = ExtraCondensed;
+widthClass = 2;
+},
+{
+axesValues = (
+108,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.82;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.18;
+};
+name = "ExtraCondensed Medium";
+weightClass = 500;
+widthClass = 2;
+},
+{
+axesValues = (
+128,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.62;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.38;
+};
+name = "ExtraCondensed SemiBold";
+weightClass = 600;
+widthClass = 2;
+},
+{
+axesValues = (
+151,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.39;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.61;
+};
+isBold = 1;
+linkStyle = ExtraCondensed;
+name = "ExtraCondensed Bold";
+weightClass = 700;
+widthClass = 2;
+},
+{
+axesValues = (
+169,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.21;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.79;
+};
+name = "ExtraCondensed ExtraBold";
+weightClass = 800;
+widthClass = 2;
+},
+{
+axesValues = (
+190,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = xHeight;
+value = "536";
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 1;
+};
+name = "ExtraCondensed Black";
+weightClass = 900;
+widthClass = 2;
+},
+{
+axesValues = (
+26,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 1;
+};
+name = Thin;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 100;
+},
+{
+axesValues = (
+39,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.79688;
+UUID0 = 0.20313;
+};
+name = ExtraLight;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 200;
+},
+{
+axesValues = (
+58,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.5;
+UUID0 = 0.5;
+};
+name = Light;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 300;
+},
+{
+axesValues = (
+90,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+UUID0 = 1;
+};
+name = Regular;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+},
+{
+axesValues = (
+108,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.29508;
+UUID0 = 0.70492;
+};
+name = Medium;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 500;
+},
+{
+axesValues = (
+128,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.62295;
+UUID0 = 0.37705;
+};
+name = SemiBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 600;
+},
+{
+axesValues = (
+151,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 1;
+};
+isBold = 1;
+linkStyle = Regular;
+name = Bold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 700;
+},
+{
+axesValues = (
+169,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.53846;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.46154;
+};
+name = ExtraBold;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 800;
+},
+{
+axesValues = (
+190,
+100
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 1;
+};
+name = Black;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 900;
+},
+{
+axesValues = (
+26,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.63333;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.36667;
+};
+name = "SemiCondensed Thin";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 100;
+widthClass = 4;
+},
+{
+axesValues = (
+39,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.07448;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.50469;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.29219;
+UUID0 = 0.12865;
+};
+name = "SemiCondensed ExtraLight";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 200;
+widthClass = 4;
+},
+{
+axesValues = (
+58,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.18333;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.31667;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.18333;
+UUID0 = 0.31667;
+};
+name = "SemiCondensed Light";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 300;
+widthClass = 4;
+},
+{
+axesValues = (
+90,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.36667;
+UUID0 = 0.63333;
+};
+name = SemiCondensed;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+widthClass = 4;
+},
+{
+axesValues = (
+108,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.27745;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.14883;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.08922;
+UUID0 = 0.48451;
+};
+name = "SemiCondensed Medium";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 500;
+widthClass = 4;
+},
+{
+axesValues = (
+128,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.19922;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.34845;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.16745;
+UUID0 = 0.28488;
+};
+name = "SemiCondensed SemiBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 600;
+widthClass = 4;
+},
+{
+axesValues = (
+151,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.143;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.63333;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.22367;
+};
+isBold = 1;
+linkStyle = SemiCondensed;
+name = "SemiCondensed Bold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 700;
+widthClass = 4;
+},
+{
+axesValues = (
+169,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.11183;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.25173;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.25484;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.3816;
+};
+name = "SemiCondensed ExtraBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 800;
+widthClass = 4;
+},
+{
+axesValues = (
+190,
+89
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+2,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.36667;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.63333;
+};
+name = "SemiCondensed Black";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 900;
+widthClass = 4;
+},
+{
+axesValues = (
+26,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.3;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.7;
+};
+name = "Condensed Thin";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 100;
+widthClass = 3;
+},
+{
+axesValues = (
+39,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.14219;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.23906;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.55781;
+UUID0 = 0.06094;
+};
+name = "Condensed ExtraLight";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 200;
+widthClass = 3;
+},
+{
+axesValues = (
+58,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.35;
+"AD832606-5186-48BF-AC4A-95D20F9D6762" = 0.15;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.35;
+UUID0 = 0.15;
+};
+name = "Condensed Light";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 300;
+widthClass = 3;
+},
+{
+axesValues = (
+90,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.7;
+UUID0 = 0.3;
+};
+name = Condensed;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+widthClass = 3;
+},
+{
+axesValues = (
+108,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.59243;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.11875;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.10757;
+UUID0 = 0.18125;
+};
+name = "Condensed Medium";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 500;
+widthClass = 3;
+},
+{
+axesValues = (
+128,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.41376;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.1537;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.28624;
+UUID0 = 0.1463;
+};
+name = "Condensed SemiBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 600;
+widthClass = 3;
+},
+{
+axesValues = (
+151,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.273;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.3;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.427;
+};
+isBold = 1;
+linkStyle = Condensed;
+name = "Condensed Bold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 700;
+widthClass = 3;
+},
+{
+axesValues = (
+169,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.14865;
+"397B4BA1-1DC1-423A-91EE-9CBCF179C3D0" = 0.15731;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.55135;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.14269;
+};
+name = "Condensed ExtraBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 800;
+widthClass = 3;
+},
+{
+axesValues = (
+190,
+79
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.7;
+"F506C8C4-888D-41F0-91C9-49F2C7D2D9C4" = 0.3;
+};
+name = "Condensed Black";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 900;
+widthClass = 3;
+},
+{
+axesValues = (
+26,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+2,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 1;
+};
+name = "ExtraCondensed Thin";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 100;
+widthClass = 2;
+},
+{
+axesValues = (
+39,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+3,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.20313;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.79688;
+};
+name = "ExtraCondensed ExtraLight";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 200;
+widthClass = 2;
+},
+{
+axesValues = (
+58,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+4,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.5;
+"C86CFEE0-D181-456A-AA08-2B118FAF25CE" = 0.5;
+};
+name = "ExtraCondensed Light";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 300;
+widthClass = 2;
+},
+{
+axesValues = (
+90,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+5,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 1;
+};
+name = ExtraCondensed;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+widthClass = 2;
+},
+{
+axesValues = (
+108,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+6,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.82;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.18;
+};
+name = "ExtraCondensed Medium";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 500;
+widthClass = 2;
+},
+{
+axesValues = (
+128,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+7,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.62;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.38;
+};
+name = "ExtraCondensed SemiBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 600;
+widthClass = 2;
+},
+{
+axesValues = (
+151,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+8,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.39;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.61;
+};
+isBold = 1;
+linkStyle = ExtraCondensed;
+name = "ExtraCondensed Bold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 700;
+widthClass = 2;
+},
+{
+axesValues = (
+169,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+9,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = 0.21;
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 0.79;
+};
+name = "ExtraCondensed ExtraBold";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 800;
+widthClass = 2;
+},
+{
+axesValues = (
+190,
+70
+);
+customParameters = (
+{
+name = panose;
+value = (
+2,
+11,
+10,
+6,
+4,
+5,
+4,
+2,
+2,
+4
+);
+},
+{
+name = "Don't use Production Names";
+value = 1;
+},
+{
+name = typoAscender;
+value = 1069;
+},
+{
+name = typoDescender;
+value = -293;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 1069;
+},
+{
+name = winDescent;
+value = 293;
+},
+{
+name = hheaAscender;
+value = 1069;
+},
+{
+name = hheaDescender;
+value = -293;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = xHeight;
+value = "536";
+},
+{
+name = "Reencode Glyphs";
+value = (
+"uuUIguru=0A0A",
+"uumatraUIguru=0A42",
+"udaatUIguru=0A51",
+"yakashUIguru=0A75"
+);
+}
+);
+instanceInterpolations = {
+"CBEC276F-1F9B-404D-BC73-2CB92054D876" = 1;
+};
+name = "ExtraCondensed Black";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Noto Sans Gurmukhi UI";
+}
+);
+}
+);
+weightClass = 900;
+widthClass = 2;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = "cap height";
+},
+{
+type = "x-height";
+},
+{
+type = baseline;
+},
+{
+type = descender;
+},
+{
+type = "italic angle";
+}
+);
+numbers = (
+{
+name = aumatra_rightfix;
+},
+{
+name = addak_rightfix;
+},
+{
+name = aumatrabindi_rightfix;
+},
+{
+name = ba_aumatraaddak_fix;
+},
+{
+name = aumatraaddak_tta_fix;
+},
+{
+name = bindi_iimatra_fix;
+}
+);
+properties = (
+{
+key = copyrights;
+values = (
+{
+language = dflt;
+value = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/gurmukhi)";
+}
+);
+},
+{
+key = descriptions;
+values = (
+{
+language = dflt;
+value = "Designed by Monotype design team.";
+}
+);
+},
+{
+key = designers;
+values = (
+{
+language = dflt;
+value = "Jelle Bosma - Monotype Design Team";
+}
+);
+},
+{
+key = designerURL;
+value = "http://www.monotype.com/studio";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
+},
+{
+key = manufacturers;
+values = (
+{
+language = dflt;
+value = "Monotype Imaging Inc.";
+}
+);
+},
+{
+key = manufacturerURL;
+value = "http://www.google.com/get/noto/";
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Noto is a trademark of Google Inc.";
+}
+);
+},
+{
+key = vendorID;
+value = GOOG;
+},
+{
+key = versionString;
+value = "Version 2.004";
+}
+);
+settings = {
+disablesAutomaticAlignment = 1;
+disablesNiceNames = 1;
+};
+stems = (
+{
+horizontal = 1;
+name = hStem0;
+},
+{
+name = vStem0;
+}
+);
+unitsPerEm = 1000;
+userData = {
+GSDimensionPlugin.Dimensions = {
+"04B5D069-3E89-43E6-853C-EFCF876AEDC5" = {
+HH = "68";
+HV = "75";
+};
+};
+};
+versionMajor = 2;
+versionMinor = 4;
+}

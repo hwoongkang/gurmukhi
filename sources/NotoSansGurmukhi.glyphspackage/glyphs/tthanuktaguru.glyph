@@ -1,0 +1,196 @@
+{
+glyphname = tthanuktaguru;
+layers = (
+{
+anchors = (
+{
+name = Anchor2;
+pos = (370,622);
+},
+{
+name = Anchor6;
+pos = (490,0);
+},
+{
+name = halant;
+pos = (519,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (404,38);
+ref = nuktaguru;
+}
+);
+width = 660;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (417,622);
+},
+{
+name = Anchor6;
+pos = (427,0);
+},
+{
+name = halant;
+pos = (588,0);
+}
+);
+layerId = "397B4BA1-1DC1-423A-91EE-9CBCF179C3D0";
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (408,48);
+ref = nuktaguru;
+}
+);
+width = 700;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (345,622);
+},
+{
+name = Anchor6;
+pos = (454,0);
+},
+{
+name = halant;
+pos = (454,0);
+}
+);
+layerId = "AD832606-5186-48BF-AC4A-95D20F9D6762";
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (405,38);
+ref = nuktaguru;
+}
+);
+width = 614;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (456,622);
+},
+{
+name = Anchor6;
+pos = (427,0);
+},
+{
+name = halant;
+pos = (631,0);
+}
+);
+layerId = "F506C8C4-888D-41F0-91C9-49F2C7D2D9C4";
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (408,48);
+ref = nuktaguru;
+}
+);
+width = 735;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (247,622);
+},
+{
+name = Anchor6;
+pos = (305,0);
+},
+{
+name = halant;
+pos = (364,0);
+}
+);
+layerId = "C86CFEE0-D181-456A-AA08-2B118FAF25CE";
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (381,38);
+ref = nuktaguru;
+}
+);
+width = 468;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (352,622);
+},
+{
+name = Anchor6;
+pos = (323,0);
+},
+{
+name = halant;
+pos = (491,0);
+}
+);
+layerId = "CBEC276F-1F9B-404D-BC73-2CB92054D876";
+shapes = (
+{
+ref = tthaguru;
+},
+{
+pos = (395,48);
+ref = nuktaguru;
+}
+);
+width = 556;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (284,622);
+},
+{
+name = Anchor6;
+pos = (309,0);
+},
+{
+name = halant;
+pos = (402,0);
+}
+);
+layerId = "04B5D069-3E89-43E6-853C-EFCF876AEDC5";
+shapes = (
+{
+alignment = -1;
+ref = tthaguru;
+},
+{
+pos = (385,38);
+ref = nuktaguru;
+}
+);
+width = 494;
+}
+);
+metricWidth = "=tthaguru";
+}

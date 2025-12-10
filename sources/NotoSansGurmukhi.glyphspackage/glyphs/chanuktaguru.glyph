@@ -1,0 +1,196 @@
+{
+glyphname = chanuktaguru;
+layers = (
+{
+anchors = (
+{
+name = Anchor2;
+pos = (534,622);
+},
+{
+name = Anchor6;
+pos = (450,0);
+},
+{
+name = halant;
+pos = (576,0);
+}
+);
+layerId = UUID0;
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (424,52);
+ref = nuktaguru;
+}
+);
+width = 634;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (593,622);
+},
+{
+name = Anchor6;
+pos = (444,0);
+},
+{
+name = halant;
+pos = (653,0);
+}
+);
+layerId = "397B4BA1-1DC1-423A-91EE-9CBCF179C3D0";
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (432,42);
+ref = nuktaguru;
+}
+);
+width = 689;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (513,622);
+},
+{
+name = Anchor6;
+pos = (448,0);
+},
+{
+name = halant;
+pos = (547,0);
+}
+);
+layerId = "AD832606-5186-48BF-AC4A-95D20F9D6762";
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (413,52);
+ref = nuktaguru;
+}
+);
+width = 602;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (625,622);
+},
+{
+name = Anchor6;
+pos = (436,0);
+},
+{
+name = halant;
+pos = (678,0);
+}
+);
+layerId = "F506C8C4-888D-41F0-91C9-49F2C7D2D9C4";
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (444,40);
+ref = nuktaguru;
+}
+);
+width = 708;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (365,622);
+},
+{
+name = Anchor6;
+pos = (307,0);
+},
+{
+name = halant;
+pos = (406,0);
+}
+);
+layerId = "C86CFEE0-D181-456A-AA08-2B118FAF25CE";
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (380,52);
+ref = nuktaguru;
+}
+);
+width = 451;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (489,622);
+},
+{
+name = Anchor6;
+pos = (337,0);
+},
+{
+name = halant;
+pos = (513,0);
+}
+);
+layerId = "CBEC276F-1F9B-404D-BC73-2CB92054D876";
+shapes = (
+{
+ref = chaguru;
+},
+{
+pos = (414,40);
+ref = nuktaguru;
+}
+);
+width = 551;
+},
+{
+anchors = (
+{
+name = Anchor2;
+pos = (407,622);
+},
+{
+name = Anchor6;
+pos = (326,0);
+},
+{
+name = halant;
+pos = (446,0);
+}
+);
+layerId = "04B5D069-3E89-43E6-853C-EFCF876AEDC5";
+shapes = (
+{
+alignment = -1;
+ref = chaguru;
+},
+{
+pos = (400,52);
+ref = nuktaguru;
+}
+);
+width = 481;
+}
+);
+metricWidth = "=chaguru";
+}
